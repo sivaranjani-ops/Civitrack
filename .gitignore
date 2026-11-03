@@ -20,4 +20,8 @@ npm-debug.log*
 .DS_Store
 Thumbs.db
 # Workspace settings
-.vscode/
+.vscode/.env
+client/dist/
+.env
+.env.*
+client/dist/
